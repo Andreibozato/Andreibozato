@@ -23,6 +23,7 @@ I am a Business Informatics student focused on bridging the gap between technolo
 - 🌍 Continuously expand my technical and professional English proficiency.
   
 📫 Connect with me:
+<br>
 <a href="https://www.linkedin.com/in/andrei-bandeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
