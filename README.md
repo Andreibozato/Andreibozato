@@ -9,7 +9,7 @@ I am a Business Informatics student focused on bridging the gap between technolo
 ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🎬 Content Creation & Design (My Unique Blend)
+### 🎬 Content Creation & Design 
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![](https://img.shields.io/badge/NodeVideo-3A0066?style=for-the-badge&logoColor=white)
