@@ -1,6 +1,6 @@
 # Hello, I'm Andrei! 👋
 
-I am a Business Informatics student focused on bridging the gap between technology and real-world business solutions.
+I am a student focused on software development and programming. Interested in software architecture and solving complex problems through code.
 
 ## 🛠️ Skills & Technologies
 
@@ -22,7 +22,7 @@ I am a Business Informatics student focused on bridging the gap between technolo
 - 🔍 Master advanced SQL queries and data manipulation using Python.
 - 🌍 Continuously expand my technical and professional English proficiency.
   
-### 📫 Connect with me:
+## 📫 Connect with me:
 
 <a href="https://www.linkedin.com/in/andrei-bandeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
