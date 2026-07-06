@@ -22,7 +22,8 @@ I am a Business Informatics student focused on bridging the gap between technolo
 - 🔍 Master advanced SQL queries and data manipulation using Python.
 - 🌍 Continuously expand my technical and professional English proficiency.
   
-📫 Connect with me:(https://www.linkedin.com/in/andrei-bandeira/)## 
+📫 Connect with me:
+<a href="https://www.linkedin.com/in/andrei-bandeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **Andreibozato/Andreibozato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
