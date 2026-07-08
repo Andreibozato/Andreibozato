@@ -2,14 +2,14 @@
 
 I am a student focused on software development and programming. Interested in software architecture and solving complex problems through code.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
-### 📊 Data & Programming
+### Data & Programming
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🎬 Content Creation & Design 
+### Content Creation & Design 
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 ![](https://img.shields.io/badge/NodeVideo-3A0066?style=for-the-badge&logoColor=white)
@@ -17,12 +17,12 @@ I am a student focused on software development and programming. Interested in so
 
 ---
 
-## 📈 My Goals
-- 💼 Looking for internship opportunities at the intersection of technology and business.
-- 🔍 Master advanced SQL queries and data manipulation using Python.
-- 🌍 Continuously expand my technical and professional English proficiency.
+## My Goals
+- Looking for internship opportunities at the intersection of technology and business.
+- Master advanced SQL queries and data manipulation using Python.
+- Continuously expand my technical and professional English proficiency.
   
-## 📫 Connect with me:
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/andrei-bandeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
